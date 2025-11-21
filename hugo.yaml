@@ -3,6 +3,11 @@ languageCode: en-us
 title: ☕️ The Monday Morning Coffee News 🗞️
 theme: PaperMod
 
+# see https://gohugo.io/host-and-deploy/host-on-github-pages/
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   showBreadCrumbs: true
   hideFooter: true
