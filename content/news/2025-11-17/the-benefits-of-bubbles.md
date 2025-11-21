@@ -1,7 +1,6 @@
 ---
 title: The Benefits of Bubbles
-externalLink: "https://stratechery.com/2025/the-benefits-of-bubbles/"
-date: <no value>
+externalLink: https://stratechery.com/2025/the-benefits-of-bubbles/
 publishDate: 2025-11-17
 ----
 The article discusses the current AI boom as a "bubble," comparing it to past technological bubbles like the dot-com era. It argues that while bubbles eventually pop, they can have significant long-term benefits by driving massive investment in infrastructure and fostering innovation.

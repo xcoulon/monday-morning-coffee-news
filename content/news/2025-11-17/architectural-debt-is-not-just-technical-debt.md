@@ -1,9 +1,7 @@
 ---
 title: Architectural debt is not just technical debt
-externalLink: "https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/"
-date: 2025-11-17
+externalLink: https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/
 publishDate: 2025-11-24
-
 ---
 The author discusses architectural debt, distinguishing it from code debt. While code debt involves temporary hacks, architectural debt stems from structural decisions with long-term consequences. As an enterprise architect, the author focuses on how applications interact, data flow, and system maintenance rather than internal software workings.
 

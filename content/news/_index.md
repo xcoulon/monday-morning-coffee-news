@@ -1,3 +1,3 @@
 ---
-name: foo
+title: News
 ---

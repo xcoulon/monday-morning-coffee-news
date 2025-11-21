@@ -1,7 +1,6 @@
 ---
 title: Advice for New Principal Tech ICs (i.e., Notes to Myself)
-externalLink: "https://eugeneyan.com/writing/principal/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2158"
-date: <no value>
+externalLink: https://eugeneyan.com/writing/principal/?utm_source=bonobopress&utm_medium=newsletter&utm_campaign=2158
 publishDate: 2025-11-10
 ----
 This article outlines 31 pieces of advice for new Principal Engineers or Scientists, drawing from observations and role models, primarily within an Amazon context. Key themes include:

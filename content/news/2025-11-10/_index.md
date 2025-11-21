@@ -1,3 +1,3 @@
 ---
-title: News for 2025-11-10
+title: Monday, November 10, 2025
 ----
