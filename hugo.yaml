@@ -2,3 +2,8 @@ baseURL: https://example.org/
 languageCode: en-us
 title: ☕️ The Monday Morning Coffee News 🗞️
 theme: PaperMod
+
+params:
+  showBreadCrumbs: true
+  hideFooter: true
+  hideMeta: true
